@@ -16,3 +16,5 @@
 - GraphQL
 - Sockets (WebSockets)
 - Deno & TypeScript
+
+![Nodejs Diagram](./nodejs-system.png)
